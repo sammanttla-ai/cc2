@@ -90,7 +90,7 @@ async def is_joined_channel(user_id):
         print("VERIFY ERROR:", e)
         return False
         
-CHANNEL_USERNAME = "THENETWORKOFLEO"        
+CHANNEL_USERNAME = "projacker"        
 # File paths
 PREMIUM_FILE = 'premium.txt'
 SITES_FILE = 'sites.txt'
@@ -2203,7 +2203,7 @@ async def start(event):
                 Button.inline("  𝙎𝙐𝙋𝙋𝙊𝙍𝙏 🆘  ", b"support_menu"),
             ],
             [
-                Button.url("  𝙐𝙋𝘿𝘼𝙏𝙀𝙎 📣  ", f"https://t.me/+dRrisDTi-1A0NGI1"),
+                Button.url("  𝙐𝙋𝘿𝘼𝙏𝙀𝙎 📣  ", f"https://t.me/projacker"),
                 Button.url("  𝙂𝙍𝙊𝙐𝙋 💭  ", f"https://t.me/{CHANNEL_USERNAME}"),
             ],
         ]
